@@ -1,0 +1,519 @@
+.karthik{
+    position: absolute;
+    
+}
+
+.karthik img{
+    height: 900px;
+    width: 100%;    
+}
+
+.header{
+    position: relative;
+    background-color: rgb(32, 197, 156);
+    
+}
+.header{
+    position: sticky;
+    top: 0;
+}
+
+.header i:hover{
+    transform: scale(1.09);
+    color: white;
+
+}
+
+.header i {
+    font-size: 30px;
+    margin-left: 10px
+}
+
+button{
+    height: 40px;
+    width: 140px;
+    margin-left: 20px;
+    background-color: rgb(60, 160, 199);
+    border: 2px solid black;
+
+}
+
+.header img{
+    height: 120px;
+    width: 150px;
+    float: left;
+}
+
+.header{
+    height: 120px;
+    width: 70%;
+    border: 2px solid rgb(23, 184, 122);
+  margin-left: 200px;
+}
+
+.header button{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.kart{
+    position: relative;
+    margin-top: 200px;
+    margin-left: 200px;
+    color: rgb(203, 212, 64);
+}
+
+.cards{
+    position: relative;
+    height: 300px;
+    width: 100%;
+   margin-top: 320px;
+    
+}
+
+.card{
+    height: 250px;
+    width: 300px;
+    float: left;
+    border: 2px solid rgb(205, 211, 180);
+    margin-left: 20px;
+    text-align: center;
+    background-color: rgb(85, 128, 103);
+}
+
+.card1{
+    height: 250px;
+    width: 300px;
+    float: left;
+    border: 2px solid rgb(205, 211, 180);
+    margin-left: 20px;
+    text-align: center;
+    background-color: rgb(85, 128, 103);
+    margin-left: 180px;
+}
+
+.card i:hover{
+    transform: scale(1.1);
+    color: rgb(209, 209, 141);
+}
+
+.card i{
+    font-size: 50px;
+}
+
+.card1 i:hover{
+    transform: scale(1.1);
+    color: rgb(209, 209, 141);
+}
+
+.card1 i{
+    font-size: 50px;
+}
+
+.daggu{
+    background-color: rgb(66, 190, 103);
+}
+.body{
+    height: 500px;
+    width: 75%;
+    /* border: 2px solid red; */
+    margin-left: 200px;
+   
+}
+
+.full{
+    height: 500px;
+    width: 500px;
+    /* border: 2px solid red; */
+    float: left;
+}
+
+.small{
+    height: 150px;
+    width: 200px;
+    background-color: rgb(140, 98, 175);
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.small1{
+    height: 150px;
+    width: 200px;
+    background-color: rgb(140, 98, 175);
+    margin-left: 20px;
+    float: left;
+    text-align: center;
+}
+
+.para{
+    margin-top: 190px;
+}
+
+.image img{
+    margin-left: 30px;
+    border-radius: 1000px;
+    margin-top: 50px;
+}
+
+.side{
+    height:330px ;
+    width: 100%;
+    /* border: 2px solid red; */
+    background-color: rgb(97, 114, 168);
+   
+}
+
+.services{
+    height: 300px;
+    width: 330px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 200px;
+
+}
+
+.maincard{
+    height: 300px ;
+    width: 530px ;
+        /* border: 2px solid red; */
+    margin-left: 600px;
+   
+}
+
+.subcard{
+    height: 130px;
+    width: 220px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgb(153, 190, 82);
+}
+
+.side1{
+    height: 400px;
+    width: 100%;
+    border: 2px solid rgb(252, 171, 49);
+    background-color: rgb(255, 186, 82);
+   
+}
+
+.one{
+   float: left;
+   margin-left: 200px;
+}
+
+.two{
+    height:400px ;
+    width: 500px;
+    /* border: 2px solid red; */
+    margin-left: 640px;
+}
+
+
+
+.hello{
+    width: 100%;
+    height: 320px;
+    border: 2px solid rgb(168, 199, 142);
+    background-color: rgb(213, 226, 99);
+}
+
+.hi{
+    height: 300px;
+    width: 400px;
+        float: left;
+    margin-left: 200px
+}
+
+.ok img{
+   float: left;
+   margin-left: 20px;
+  
+}
+
+.line{
+    width: 100%;
+    height: 180px;
+    /* border: 2px solid rgb(216, 23, 216); */
+   position: absolute;
+   background-color: rgb(186, 231, 155);
+}
+
+
+.num{
+    float: left;
+    margin-left: 30px;
+    height: 100px;
+    width: 200px;
+    border: 2px solid rgb(37, 181, 238);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.num1{
+    float: left;
+    margin-top: 20px;
+    margin-left: 200px;
+    height: 100px;
+    width: 200px;
+    border: 2px solid rgb(37, 181, 238);
+    text-align: center;
+}
+.num i{
+    font-size: 40px;
+}
+
+.num1 i{
+    font-size: 40px;
+}
+
+.start h1{
+    float: left;
+}
+
+.start button{
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+.start{
+    position: relative;
+    margin-top: 140px;
+    border: 2px solid rgb(67, 148, 202);
+    background-color: rgb(27, 135, 197);
+    height:80px ;
+    width: 900px;
+    margin-left: 200px;
+}
+
+.color{
+  background-color: rgb(231, 248, 155);
+}
+
+.but button{
+    margin-left: 30px;
+    height: 50px;
+    width: 200px;
+}
+
+.but {
+    margin-left: 170px;
+}
+
+.pic img{
+   
+    height: 300px;
+    width: 400px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.data{
+    float: left;
+    margin-left: 80px;
+    height:300px ;
+    width: 400px;
+    text-align: center;
+}
+
+.kar{
+    margin-top: 30px;
+    height: 340px;
+    width: 900px;
+    border: 2px solid rgb(151, 136, 136);
+    background-color: rgb(231, 179, 187);
+    margin-left: 200px;
+}
+
+.box{
+    height: 500px;
+    width: 100%;
+    border: 2px solid rgb(113, 219, 178);
+    background-color: rgb(85, 224, 178);
+}
+
+.her h1{
+    margin-left: 200px;
+    float: left;
+}
+
+.her button{
+    margin-top: 40px;
+    margin-left: 300px;
+}
+
+.love i{
+  font-size: 40px;
+}
+
+.love1 i{
+    font-size: 40px;
+  }
+
+.love{
+    float: left;
+    margin-left: 50px;
+    height: 330px;
+    width: 250px;
+    /* border: 2px solid red ; */
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.love1{
+    float: left;
+    margin-left: 210px;
+    height: 330px;
+    width: 250px;
+    /* border: 2px solid red ; */
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.head{
+    text-align: center;
+}
+
+.her{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid red; */
+}
+
+.mid{
+
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid red; */
+    background-color: blanchedalmond;
+}
+
+.ranga{
+
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: px;
+}
+
+.icon1 img{
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.icon1{
+    height: 270px;
+    width: 260px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 200px;
+    background-color: rgb(178, 137, 189);
+}
+
+.icon2 img{
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.icon2{
+    height: 270px;
+    width: 260px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 30px;
+    background-color: rgb(178, 137, 189);
+}
+
+.heading{
+    text-align: center;
+}
+
+.bottom{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(66, 61, 61);
+    color: orange;
+    border: 2px solid rgb(28, 29, 27);
+}
+
+.pic10 img{
+    height: 200px;
+    width: 250px;
+}
+
+.pic10{
+    float: left;
+    height: 360px;
+    width: 250px;
+    /* border: 2px solid red; */
+    margin-left: 40px;
+    background-color: rgb(224, 210, 183);
+}
+
+.pic20 img{
+    height: 200px;
+    width: 250px;
+}
+
+.pic20{
+    float: left;
+    height: 360px;
+    width: 250px;
+    /* border: 2px solid red; */
+    margin-left: 200px;
+    background-color: rgb(224, 210, 183);
+}
+
+.last a i {
+    font-size: 40px;
+}
+
+.last1 a i {
+    font-size: 40px;
+}
+
+.last1 i:hover{
+    transform: scale(1.1);
+    color: yellow;
+}
+
+.footer{
+    width: 100%;
+    height: 300px;
+    /* border: 2px solid red; */
+    background-color: rgb(37, 37, 37);
+}
+
+.last{
+    height: 250px;
+    width: 200px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: blanchedalmond;
+}
+
+.last1{
+    height: 250px;
+    width: 200px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 180px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: blanchedalmond;
+}
+
+@media{
+    (max: width 767px; )
+}
